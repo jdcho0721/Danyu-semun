@@ -6,7 +6,7 @@
 
 ## 감상하기 / Visit
 
-https://jdcho0721.github.io/ (이 저장소의 GitHub Pages 주소) — 열면 게임 사이트로 자동 이동합니다.
+https://jdcho0721.github.io/Danyu-semungyeong/ — 열면 게임 사이트로 자동 이동합니다.
 
 ## 제작 / Credits
 
